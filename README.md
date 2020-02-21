@@ -1,4 +1,5 @@
 # Emaily
+[Demo](https://powerful-meadow-90516.herokuapp.com/)
 
 A fullstack web application for mass-emailing surveys to a large amount of users. Features included:
 
