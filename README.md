@@ -1,15 +1,14 @@
 # Emaily
 [Live demo](https://powerful-meadow-90516.herokuapp.com/) (may take a while to load)
 
+Created from following Stephen Grider's [Node with React: Fullstack Web Development](https://www.udemy.com/course/node-with-react-fullstack-web-development/) course.
+
 A fullstack web application for mass-emailing surveys to a large amount of users. Features included:
 
 - OAuth authentication with Google
 - Credit card payments
 - Creation of new surveys
 - Tracking of user responses
-
-Created from Stephen Grider's [Node with React: Fullstack Web Development](https://www.udemy.com/course/node-with-react-fullstack-web-development/) course.
-
 
 
 ## Stack
